@@ -1,14 +1,14 @@
 ![Logo](https://github.com/douglas-goncalves/acelera_assets/blob/master/logo.jpeg)
-# Api aceleraGep Biblioteca
+# Frontend do aceleraGep Biblioteca
 [![shield-mit](https://img.shields.io/badge/license-MIT-green)](https://github.com/douglas-goncalves/acelera_assets/blob/master/docs/LICENCE)
 # Sobre o Projeto
-Este é o primeiro projeto de avaliação do Acelera ao qual o tema é biblioteca.
+Este é o segundo projeto de avaliação do Acelera ao qual o tema é biblioteca.
 
 # Tecnologias Utilizadas
 - Angular
 - HTML5
 - Tyscript
-- css
+- CSS
 
 # Frontend
 
@@ -26,8 +26,8 @@ git clone https://github.com/douglas-goncalves/acelera-gep-biblioteca-frontend.g
  6. copie este link, abra um navegador de sua preferencia e cole este link barra de navegação do navegador.
  provavelmente sera algo como por exemplo http:localhost:4200
  
- Nesta Pagina será possivel:
- Autore:
+ ## Nesta Pagina será possivel:
+ # Autore:
  - Lista Todos os Autores
  - Buscar autor pelo id.
  - Cadastras um novo Autor.
@@ -35,7 +35,7 @@ git clone https://github.com/douglas-goncalves/acelera-gep-biblioteca-frontend.g
  - Listar os Livros do Autor.
  - Vizualizar os Dados do Autor.
  
- Livro:
+ # Livro:
  - Lista Todos os Livro.
  - Buscar livro pelo id.
  - Cadastras um novo Livro.
