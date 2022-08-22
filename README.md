@@ -32,12 +32,13 @@ git clone https://github.com/douglas-goncalves/acelera-gep-biblioteca-frontend.g
  - Buscar autor pelo id.
  - Cadastras um novo.
  - Atualizar os dados.
- - Listar os Livros do.
+ - Listar os Livros do autor.
  - Vizualizar os Dados.
  
  ### Livro:
  - Lista Todos.
  - Buscar pelo id.
+ - Remover pelo id.
  - Cadastras um novo.
  - Atualizar os dados.
  - Vizualizar os Dados.
