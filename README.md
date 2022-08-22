@@ -30,17 +30,17 @@ git clone https://github.com/douglas-goncalves/acelera-gep-biblioteca-frontend.g
  ### Autore:
  - Lista Todos os Autores
  - Buscar autor pelo id.
- - Cadastras um novo Autor.
- - Atualizar os dados Autor.
- - Listar os Livros do Autor.
- - Vizualizar os Dados do Autor.
+ - Cadastras um novo.
+ - Atualizar os dados.
+ - Listar os Livros do.
+ - Vizualizar os Dados.
  
  ### Livro:
- - Lista Todos os Livro.
- - Buscar livro pelo id.
- - Cadastras um novo Livro.
- - Atualizar os dados Autor.
- - Vizualizar os Dados do Livro.
+ - Lista Todos.
+ - Buscar pelo id.
+ - Cadastras um novo.
+ - Atualizar os dados.
+ - Vizualizar os Dados.
 
 # Auto
 Douglas Goncalves
