@@ -26,8 +26,8 @@ git clone https://github.com/douglas-goncalves/acelera-gep-biblioteca-frontend.g
  6. copie este link, abra um navegador de sua preferencia e cole este link barra de navegação do navegador.
  provavelmente sera algo como por exemplo http:localhost:4200
  
- ## Nesta Pagina será possivel:
- # Autore:
+ # Nesta Pagina será possivel:
+ ### Autore:
  - Lista Todos os Autores
  - Buscar autor pelo id.
  - Cadastras um novo Autor.
@@ -35,7 +35,7 @@ git clone https://github.com/douglas-goncalves/acelera-gep-biblioteca-frontend.g
  - Listar os Livros do Autor.
  - Vizualizar os Dados do Autor.
  
- # Livro:
+ ### Livro:
  - Lista Todos os Livro.
  - Buscar livro pelo id.
  - Cadastras um novo Livro.
